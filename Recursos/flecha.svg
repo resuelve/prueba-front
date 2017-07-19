@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="13px" viewBox="0 0 18 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/flecha</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/flecha">
+            <path d="M16.8604633,7.28346007 C17.1826026,6.97931179 17.1872939,6.49061929 16.8604633,6.18204171 L15.8024411,5.18310865 L11.6031945,1.2183845 C11.279074,0.912365698 10.7598682,0.906420044 10.4330375,1.21499762 L9.95830017,1.66322151 C9.63616083,1.96736979 9.63233782,2.45688209 9.96188739,2.76802674 L14.161134,6.73275089 L9.96188739,10.697475 C9.63776688,11.0034938 9.63146953,11.4937027 9.95830017,11.8022803 L10.4330375,12.2505042 C10.7551769,12.5546524 11.2736449,12.5582619 11.6031945,12.2471173 L15.8024411,8.28239313 L16.8604633,7.28346007 Z" id="Path" fill="#FF7F6C"></path>
+            <path d="M13.3685073,7 L2.41691083,7" id="Line" stroke="#FF7F6C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
