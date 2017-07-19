@@ -12,7 +12,7 @@ Crea un repositorio en github donde vayas subiendo tus avances. Es importante qu
   Edad (admite solo números),
   Teléfono (admite solo números y verifica que sean 12 dígitos),
   Correo electrónico (valida que sea una dirección de correo).
-4. Pinta el nombre en TY page que el usuario escribió en el fomulario.
+4. Pinta el nombre en la TY page que el usuario escribió en el fomulario.
 5. El usuario solo puede ingresar a la TY page al llenar el fomulario, de otra manera tienes que redirigirlo al mismo.
 
 ## ¿Qué revisaremos?
