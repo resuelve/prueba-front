@@ -2,8 +2,6 @@
 
 Nos gustaría conocer como solucionas problemas semejantes a los que enfrentamos a diario en **Resuelve**. Puedes emplear las herramientas y lenguajes que desees.
 
-Toma el tiempo que consideres necesario para hacer el ejercicio.
-
 Crea un repositorio donde vayas registrando tus avances. Es importante que comentes tu código y en el README estén las instrucciones para correr tu proyecto.
 
 ## ¿Qué tienes que hacer?
