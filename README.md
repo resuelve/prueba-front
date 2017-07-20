@@ -1,4 +1,4 @@
-# EJERCICIO CANDIDATO RESUELVE
+# PRUEBA FRONT
 
 Nos gustaría conocer como solucionas problemas semejantes a los que enfrentamos a diario en **Resuelve**. Puedes emplear las herramientas y lenguajes que desees.
 
